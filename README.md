@@ -7,7 +7,7 @@ This is my interactive online portfolio made ith HTML and styled with CSS.
 
 ## Installation
 
-In order to view the portfolio, you will have to download the code from the git hub repository, then deploy live on VS Code.
+In order to view the portfolio, you will have to download the code from the git hub repository, then deploy live on VS Code or follow the live page link!
 
 
 ## License
